@@ -1,7 +1,7 @@
 # DDM halo density emulator
 
 A fast, closed-form emulator for the relaxed density profile of a self-gravitating
-halo whose dark matter decays, from **Bencke, Kamionkowski, & Morales (2026)**,
+halo whose dark matter decays, from **Bencke, Peter, Kamionkowski, & Morales (2026)**,
 *Dynamics of self-gravitating halos with decaying dark matter*.
 
 Given a decay lifetime `τ` and a kick velocity `v_kick`, the emulator returns the
@@ -89,7 +89,7 @@ If you use this emulator, please cite the paper and the archived release:
 
 ```bibtex
 @article{ddm_halos_2026,
-  author  = {Bencke, Anna and Kamionkowski, Marc and Morales, Jakob},
+  author  = {Bencke, Anna and Kamionkowski, Marc and Peter, Annika and Morales, Juniper},
   title   = {Dynamics of self-gravitating halos with decaying dark matter},
   year    = {2026},
   eprint  = {XXXX.XXXXX},

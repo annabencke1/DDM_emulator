@@ -20,7 +20,7 @@ from ddm_emulator import DDMDensity, GPEmulator
 
 MODELS = Path(__file__).resolve().parent.parent / "models"
 NPZ = MODELS / "semianalytic.npz"
-GPJSON = MODELS / "ddm_emulator.json"
+GPJSON = MODELS / "gp_emulator.json"
 
 
 def _load():

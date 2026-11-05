@@ -18,7 +18,7 @@ Dynamic: license-file
 # DDM halo density emulator
 
 A fast, closed-form emulator for the relaxed density profile of a self-gravitating
-halo whose dark matter decays, from **Morales, Bencke & Kamionkowski (2026)**,
+halo whose dark matter decays, from **Bencke, Kamionkowski, Peter & Morales (2026)**,
 *Dynamics of self-gravitating halos with decaying dark matter*.
 
 Given a decay lifetime `τ` and a kick velocity `v_kick`, the emulator returns the

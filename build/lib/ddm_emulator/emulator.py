@@ -1,6 +1,6 @@
 """
 Full PCA + Gaussian-process emulator for the decaying-dark-matter halo density
-of Morales, Bencke & Kamionkowski (2026).
+of Bencke, Kamionkowski, Peter & Morales (2026).
 
     rho_DDM(r; tau, v_kick) = rho_null(r) * exp[ ybar(r) + sum_k c_k(tau,v) e_k(r) ]
 
